@@ -39,6 +39,8 @@ Several visualizations are created to represent key insights:
 - **Gauges:** Work-life balance satisfaction and salary happiness
 - **Donut Chart:** Average salary by gender
 
+![Image](https://github.com/user-attachments/assets/be22efca-f0da-4957-b58a-bd3e2dff8b26)
+
 ## Dashboard Formatting
 - Adjusting titles for clarity and aesthetics
 - Aligning and spacing visuals properly
